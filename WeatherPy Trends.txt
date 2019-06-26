@@ -1,0 +1,4 @@
+WeatherPy Trends:
+1. When looking at the Lat v. Max Temperature graph it’s clear that cities closest to the equator (-20 to 40) have the highest max temps.
+2. It’s also clear when looking at the same graph that most of the cities (plotted) are in the Northern Hemisphere (>0). That’s not surprise given there is far more land in the Northern Hemisphere than the Southern Hemisphere.
+3. When looking at the Lat v. Humidity graph it’s hard to see any sort of pattern. That’s important because it implies there is no connection between latitude and humidity. It’s seemingly random.
